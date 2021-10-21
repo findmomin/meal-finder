@@ -1,0 +1,15 @@
+{
+  "name": "meal-finder",
+  "version": "1.0.0",
+  "description": "Search and generate random meals from the [themealdb.com](https://www.themealdb.com) API",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "typescript": "^4.4.4"
+  }
+}
