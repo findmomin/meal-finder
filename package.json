@@ -4,7 +4,7 @@
   "description": "Search and generate random meals from the [themealdb.com](https://www.themealdb.com) API",
   "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "tsc --project tsconfig.json"
   },
   "keywords": [],
   "author": "",
